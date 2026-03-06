@@ -1,10 +1,14 @@
 {
   "name": "deployment-io",
+  "displayName": "Deployment.io",
   "description": "Deploy and manage cloud infrastructure from Cursor. Create environments, configure deployments, and monitor services on Deployment.io — all through natural language.",
   "version": "1.0.0",
   "author": {
     "name": "Deployment.io"
   },
+  "homepage": "https://deployment.io",
+  "repository": "https://github.com/deployment-io/cursor-plugin",
+  "license": "MIT",
   "keywords": [
     "deployment",
     "cloud",
