@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "deployment-io": {
+      "url": "https://app.deployment.io/v1/mcp"
+    }
+  }
+}

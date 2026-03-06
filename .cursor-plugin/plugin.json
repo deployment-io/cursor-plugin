@@ -1,0 +1,20 @@
+{
+  "name": "deployment-io",
+  "description": "Deploy and manage cloud infrastructure from Cursor. Create environments, configure deployments, and monitor services on Deployment.io — all through natural language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Deployment.io"
+  },
+  "keywords": [
+    "deployment",
+    "cloud",
+    "infrastructure",
+    "devops",
+    "aws",
+    "environments",
+    "hosting",
+    "mcp"
+  ],
+  "logo": "logo.svg",
+  "mcpServers": "mcp.json"
+}
