@@ -1,6 +1,6 @@
 # Deployment.io — Cursor Plugin
 
-Deploy and manage cloud infrastructure directly from Cursor. This plugin connects Cursor's AI agent to [Deployment.io](https://deployment.io) via the Model Context Protocol (MCP).
+Deploy and manage apps to your cloud directly from Cursor. This plugin connects Cursor's AI agent to [Deployment.io](https://deployment.io) via the Model Context Protocol (MCP).
 
 ## What it does
 
