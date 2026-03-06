@@ -1,12 +1,14 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.deployment-io/deployment-io",
+  "title": "Deployment.io",
   "description": "Deploy apps on your cloud. Create environments, configure infrastructure, and monitor jobs.",
+  "websiteUrl": "https://deployment.io",
   "repository": {
     "url": "https://github.com/deployment-io/cursor-plugin",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "url": "https://api.deployment.io/v1/mcp",
